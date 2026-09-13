@@ -1,0 +1,7 @@
+## Temp & Build folders
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
