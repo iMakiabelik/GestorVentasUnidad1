@@ -6,13 +6,11 @@ namespace GestorVentasUnidad1
 {
     internal class Program
     {
-        // Listas en memoria (Sin POO según la guía de la Unidad 1)
         static List<string> nombresProductos = new List<string>();
         static List<decimal> preciosProductos = new List<decimal>();
         static List<int> stocksProductos = new List<int>();
         static List<int> ventasPorProducto = new List<int>();
 
-        // Variables de caja
         static int totalVentasRealizadas = 0;
         static decimal totalDineroCaja = 0m;
 
